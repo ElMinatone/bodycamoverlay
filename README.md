@@ -1,7 +1,7 @@
 # Bodycam Overlay
 BodyCam overlay para jogar vendo o overlay da bodycam enquanto grava
 
-# parar isntalar as dependencias utilize
+# parar instalar as dependencias utilize
 npm i 
 
 # mude o que quiser no index.html
